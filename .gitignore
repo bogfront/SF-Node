@@ -1,2 +1,4 @@
 # Project exclude paths
-/starter-files/node_modules/
+node_modules
+*.env
+.idea
